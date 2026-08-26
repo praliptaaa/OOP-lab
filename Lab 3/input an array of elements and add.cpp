@@ -1,6 +1,5 @@
 Write a program to input an array of elements and add all the elements.
 
-
 #include <iostream>
 using namespace std;
 
