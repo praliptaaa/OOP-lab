@@ -1,5 +1,6 @@
 Write a program to input a 3*3 matrix and display its upper triangular matrix (elements on and above the main diagonal)
 
+
 #include<iostream>
 using namespace std;
 int main() {
