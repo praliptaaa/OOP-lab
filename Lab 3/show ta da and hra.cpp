@@ -5,7 +5,6 @@ Inner class: Computes allowances:
            DA: 12% of Basic
            HRA: 20% of Basic
 
-
            
 #include <iostream>
 using namespace std;
